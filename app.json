@@ -1,11 +1,11 @@
 {
-    "name": "WhatsAsena",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
+    "name": "XTKJ 2 BOT",
+    "description": "SIMPLE",
+    "logo": "https://telegra.ph/file/2bce3eedf66066bbf1cdf.jpg,"
     "keywords": ["whatsapp", "userbot", "Asena"],
     "repository": "https://github.com/Quiec/WhatsAsena",
     "website":   "https://quiec.tech",
-    "success_url": "https://t.me/AsenaSupport",
+    "success_url": "https://t.me/Ikyy_N9",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => IN, Español => ES",
             "required": true,
-            "value": "TR"
+            "value": "IN"
         },
         "HANDLERS": {
             "description": "Komutlar için.",
